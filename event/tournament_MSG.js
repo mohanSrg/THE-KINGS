@@ -1,0 +1,1 @@
+Spark.setScriptData("Message", "\t\t  Welcome to xyz Tournament. This tournament contains 3 rounds. If you lost 3 consecutive games, then you are out of tournament. \nThe Tournements round details are \n \t\t\tRound1: 01-01-2016\n \t\t\tRound2: 15-01-2016\n \t\t\tRound3: 01-2-2016");
